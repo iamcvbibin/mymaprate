@@ -1,0 +1,2 @@
+# mymaprate
+only for me
